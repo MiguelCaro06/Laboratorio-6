@@ -21,3 +21,13 @@ README Taller – Hilos, Sincronización y Docker – Sistemas Digitales 2025-II
 
 ![WhatsApp Image 2025-11-21 at 6 21 22 PM(1)](https://github.com/user-attachments/assets/5f7ccde9-bdfb-4b39-9136-fb3f82dc52e7)
 ![WhatsApp Image 2025-11-21 at 6 21 22 PM](https://github.com/user-attachments/assets/4ca67756-2890-40e9-ab49-ea0fd7196ff5)
+
+![WhatsApp Image 2025-11-21 at 7 26 07 PM](https://github.com/user-attachments/assets/a072337f-bb30-45ff-a34d-c3f40fe743b5)
+![WhatsApp Image 2025-11-21 at 7 25 12 PM(7)](https://github.com/user-attachments/assets/228524cf-1faf-4ca0-b231-ab91cedb2b57)
+![WhatsApp Image 2025-11-21 at 7 25 12 PM(6)](https://github.com/user-attachments/assets/7218e3a9-3475-4709-a29b-5f131fd58d8c)
+![WhatsApp Image 2025-11-21 at 7 25 12 PM(5)](https://github.com/user-attachments/assets/73fa1245-cdd6-4bdb-908b-0b8ed8339a97)
+![WhatsApp Image 2025-11-21 at 7 25 12 PM(4)](https://github.com/user-attachments/assets/8ddbc314-72ed-41f7-ab5a-443488ac4114)
+![WhatsApp Image 2025-11-21 at 7 25 12 PM(3)](https://github.com/user-attachments/assets/cc6571b5-bb4e-4639-a237-923302073db2)
+![WhatsApp Image 2025-11-21 at 7 25 12 PM(2)](https://github.com/user-attachments/assets/9f48530b-78e7-4104-b4d7-f98f1a05dbbe)
+![WhatsApp Image 2025-11-21 at 7 25 12 PM(1)](https://github.com/user-attachments/assets/27f5c2ba-9fac-4eea-9afa-b09d8db0598c)
+![WhatsApp Image 2025-11-21 at 7 25 12 PM](https://github.com/user-attachments/assets/9a17f796-2335-40c8-884d-ee35a57d8c23)
